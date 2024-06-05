@@ -5,3 +5,6 @@ Name=SailfishReboot
 Icon=harbour-sailfishreboot
 Exec=harbour-sailfishreboot
 
+[X-Sailjail]
+Permissions=Privileged
+

@@ -171,7 +171,6 @@
         <translation>
             <numerusform>%n segon</numerusform>
             <numerusform>%n segons</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>

@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="10"/>
         <source>Forked Project Home</source>
-        <translation type="unfinished"></translation>
+        <translation type=Projekt-Homepage des Forks></translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="11"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="17"/>
         <source>OG Project Home</source>
-        <translation type="unfinished"></translation>
+        <translation type=Projekt-Homepage des Originals></translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="23"/>
@@ -34,13 +34,13 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="37"/>
         <source>Mod Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation type=Mod-Twitter></translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="32"/>
         <location filename="../qml/common/AboutModel.qml" line="39"/>
         <source>Author</source>
-        <translation>Autor</translation>
+        <translation>Autoren</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="30"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="22"/>
         <source>Custom colors</source>
-        <translation>Eigene Farben</translation>
+        <translation>Benutzerdefinierte Farben</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="23"/>

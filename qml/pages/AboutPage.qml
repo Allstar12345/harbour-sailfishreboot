@@ -9,15 +9,6 @@ Page {
         id: listView
         anchors.fill: parent
 
-        PullDownMenu {
-            id: pullDownMenu
-
-            MenuItem {
-                text: qsTr("Settings")
-                onClicked: pageStack.push(settingsPage)
-            }
-        }
-
         model: AboutModel {
             id: aboutModel
         }

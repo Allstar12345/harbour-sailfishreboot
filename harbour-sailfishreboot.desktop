@@ -7,4 +7,6 @@ Exec=harbour-sailfishreboot
 
 [X-Sailjail]
 Permissions=Privileged
+Sandboxing=Disabled
+
 

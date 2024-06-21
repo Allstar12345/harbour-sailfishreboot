@@ -40,7 +40,7 @@
         <location filename="../qml/common/AboutModel.qml" line="32"/>
         <location filename="../qml/common/AboutModel.qml" line="39"/>
         <source>Author</source>
-        <translation>Autor</translation>
+        <translation>Autors</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="30"/>
@@ -51,22 +51,17 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="16"/>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="26"/>
+        <location filename="../qml/pages/AboutPage.qml" line="17"/>
         <source>About SailfishReboot</source>
         <translation>Über SailfishReboot</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="46"/>
+        <location filename="../qml/pages/AboutPage.qml" line="37"/>
         <source>Link will open</source>
         <translation>Link wird geöffnet</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="49"/>
+        <location filename="../qml/pages/AboutPage.qml" line="40"/>
         <source>Mail app will open</source>
         <translation>E-Mail-App wird geöffnet</translation>
     </message>
@@ -118,22 +113,22 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <location filename="../qml/pages/SettingsPage.qml" line="18"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="25"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../qml/pages/SettingsPage.qml" line="32"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="39"/>
         <source>Remorse timeout</source>
         <translation>Timeout für den Remorse-Timer</translation>
     </message>
     <message>
-        <location filename="../qml/pages/SettingsPage.qml" line="42"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="49"/>
         <source>Off</source>
         <translation>Aus</translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/pages/SettingsPage.qml" line="44"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="51"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n Sekunde</numerusform>
@@ -141,12 +136,17 @@
         </translation>
     </message>
     <message>
-        <location filename="../qml/pages/SettingsPage.qml" line="22"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="29"/>
         <source>Custom colors</source>
         <translation>Eigene Farben</translation>
     </message>
     <message>
-        <location filename="../qml/pages/SettingsPage.qml" line="23"/>
+        <location filename="../qml/pages/SettingsPage.qml" line="14"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/SettingsPage.qml" line="30"/>
         <source>Use custom colors for reboot and shutdown actions</source>
         <translation>Eigene Farben für die Neustart- und Ausschaltaktionen benutzen</translation>
     </message>

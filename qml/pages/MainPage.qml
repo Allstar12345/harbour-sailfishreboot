@@ -181,7 +181,7 @@ Page {
     onStatusChanged: {
         if (status === PageStatus.Active && app._isInitial) {
             app._isInitial = false;
-            pageStack.pushAttached(Qt.resolvedUrl("AboutPage.qml"))
+            pageStack.pushAttached(Qt.resolvedUrl("SettingsPage.qml"))
         }
     }
 }

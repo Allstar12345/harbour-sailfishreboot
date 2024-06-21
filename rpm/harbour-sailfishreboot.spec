@@ -12,7 +12,7 @@ Name:       harbour-sailfishreboot
 %{!?qtc_qmake5:%define qtc_qmake5 %qmake5}
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
-Summary:    With SailfishReboot you can easily reboot or shutdown your Jolla by a simple click.
+Summary:    With SailfishReboot you can easily reboot or shutdown your Sailfish Device with a simple click
 Version:    1.1.1
 Release:    1
 Group:      Qt/Qt
@@ -28,7 +28,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-SailfishReboot is a simple and fast tool that lets you reboot or shutdown your Jolla. Furthermore it shows you the uptime of your device in real time.
+SailfishReboot is a simple and fast tool that lets you reboot or shutdown your Sailfish Device. Furthermore it shows you the uptime of your device in real time.
 
 %prep
 %setup -q -n %{name}-%{version}

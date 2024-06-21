@@ -7,7 +7,14 @@ ListModel {
         var items =
                 [
                     {
-                        title: qsTr("Project Home"),
+                        title: qsTr("Forked Project Home"),
+                        subTitle: qsTr("on GitHub"),
+                        group: qsTr("Project"),
+                        url: "https://github.com/Allstar12345/harbour-sailfishreboot"
+                    },
+
+                    {
+                        title: qsTr("OG Project Home"),
                         subTitle: qsTr("on GitHub"),
                         group: qsTr("Project"),
                         url: "https://github.com/ejjoman/harbour-sailfishreboot"
@@ -18,45 +25,22 @@ ListModel {
                         group: qsTr("Project"),
                         pageFile: Qt.resolvedUrl("../pages/LicensePage.qml")
                     },
-                    {
-                        title: qsTr("Report a bug or send a feature request"),
-                        subTitle: qsTr("on GitHub Issues"),
-                        group: qsTr("Project"),
-                        url: "https://github.com/ejjoman/harbour-sailfishreboot/issues"
-                    },
-                    {
-                        title: qsTr("Author"),
-                        subTitle: "Michael Neufing <michael@neufing.org>",
-                        group: qsTr("Author"),
-                        mail: {
-                            address: "michael@neufing.org",
-                            subject: "SailfishReboot"
-                        }
-                    },
+
                     {
                         title: qsTr("Twitter"),
                         subTitle: "@ejjoman",
                         group: qsTr("Author"),
                         url: "https://twitter.com/ejjoman"
                     },
+
                     {
-                        title: qsTr("Donate"),
-                        subTitle: qsTr("via PayPal"),
+                        title: qsTr("Mod Twitter"),
+                        subTitle: "@paulwallace1234",
                         group: qsTr("Author"),
-                        url: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3KSKM9EACDQRS"
-                    },
-                    {
-                        title: qsTr("Donate"),
-                        subTitle: qsTr("via Flattr"),
-                        group: qsTr("Author"),
-                        url: "https://flattr.com/submit/auto?fid=doxzvd&url=https%3A%2F%2Fgithub.com%2Fejjoman%2F"
-                    },
-                    {
-                        title: qsTr("Translate this app"),
-                        subTitle: qsTr("on translate.neufing.org"),
-                        group: qsTr("Translation"),
-                        url: "https://translate.neufing.org/projects/sailfishreboot/sailfishreboot-app/"
+                        url: "https://x.com/paulwallace1234"
                     }
+
+
                 ]
 
         for (var item in items) {

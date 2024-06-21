@@ -5,80 +5,47 @@
     <name>AboutModel</name>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="10"/>
-        <source>Project Home</source>
-        <translation>Página del proyecto</translation>
+        <source>Forked Project Home</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="11"/>
+        <location filename="../qml/common/AboutModel.qml" line="18"/>
         <source>on GitHub</source>
         <translation>en GitHub</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="12"/>
-        <location filename="../qml/common/AboutModel.qml" line="18"/>
-        <location filename="../qml/common/AboutModel.qml" line="24"/>
+        <location filename="../qml/common/AboutModel.qml" line="19"/>
+        <location filename="../qml/common/AboutModel.qml" line="25"/>
         <source>Project</source>
         <translation>Proyecto</translation>
     </message>
     <message>
-        <location filename="../qml/common/AboutModel.qml" line="16"/>
+        <location filename="../qml/common/AboutModel.qml" line="17"/>
+        <source>OG Project Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/common/AboutModel.qml" line="23"/>
         <source>License</source>
         <translation>Licencia</translation>
     </message>
     <message>
-        <location filename="../qml/common/AboutModel.qml" line="22"/>
-        <source>Report a bug or send a feature request</source>
-        <translation>Informar de un fallo o solicitar una funcionalidad de la aplicación</translation>
+        <location filename="../qml/common/AboutModel.qml" line="37"/>
+        <source>Mod Twitter</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/common/AboutModel.qml" line="23"/>
-        <source>on GitHub Issues</source>
-        <translation>Incidencias en GitHub</translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="28"/>
-        <location filename="../qml/common/AboutModel.qml" line="30"/>
+        <location filename="../qml/common/AboutModel.qml" line="32"/>
         <location filename="../qml/common/AboutModel.qml" line="39"/>
-        <location filename="../qml/common/AboutModel.qml" line="45"/>
-        <location filename="../qml/common/AboutModel.qml" line="51"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
     <message>
-        <location filename="../qml/common/AboutModel.qml" line="37"/>
+        <location filename="../qml/common/AboutModel.qml" line="30"/>
         <source>Twitter</source>
         <translation>Twitter</translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="43"/>
-        <location filename="../qml/common/AboutModel.qml" line="49"/>
-        <source>Donate</source>
-        <translation>Donar</translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="44"/>
-        <source>via PayPal</source>
-        <translation>vía PayPal</translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="50"/>
-        <source>via Flattr</source>
-        <translation>vía Flattr</translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="55"/>
-        <source>Translate this app</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="56"/>
-        <source>on translate.neufing.org</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/common/AboutModel.qml" line="57"/>
-        <source>Translation</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

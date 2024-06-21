@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="10"/>
         <source>Forked Project Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt-Homepage des Forks</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="11"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="17"/>
         <source>OG Project Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt-Homepage des Originals</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="23"/>
@@ -34,13 +34,13 @@
     <message>
         <location filename="../qml/common/AboutModel.qml" line="37"/>
         <source>Mod Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-Twitter</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="32"/>
         <location filename="../qml/common/AboutModel.qml" line="39"/>
-        <source>Author</source>
-        <translation>Autors</translation>
+        <source>Authors</source>
+        <translation>Autoren</translation>
     </message>
     <message>
         <location filename="../qml/common/AboutModel.qml" line="30"/>
@@ -86,7 +86,7 @@
     <name>MainPage</name>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="46"/>
-        <source>Your device will shutdown</source>
+        <source>Your device will shut down</source>
         <translation>Dein Gerät wird ausgeschaltet</translation>
     </message>
     <message>
@@ -138,17 +138,17 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="29"/>
         <source>Custom colors</source>
-        <translation>Eigene Farben</translation>
+        <translation>App-eigene Farben</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="14"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Über</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="30"/>
         <source>Use custom colors for reboot and shutdown actions</source>
-        <translation>Eigene Farben für die Neustart- und Ausschaltaktionen benutzen</translation>
+        <translation>App-eigene Farben für die Neustart- und Ausschaltaktionen benutzen</translation>
     </message>
 </context>
 </TS>
